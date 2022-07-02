@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🎓 I am a 3rd yearch student pursuing B.Tech in Electronics & Communication Engineering from Visvesvaraya National Institute of Technology, Napur.
+
 🔭 I’m currently working on Metamaterial design, IoT based smart farming, Image processing and Neural Networks.
 
 
